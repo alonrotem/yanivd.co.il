@@ -1,4 +1,4 @@
-# Yaniv Deutsch's site
+# ![](https://raw.githubusercontent.com/alonrotem/yanivd.co.il/master/images/favicon_64.png) Yaniv Deutsch's site
 
 A clone site on Blogger created at <a href="http://www.yanivd.co.il" target="_blank">yanivd.co.il</a>.   
 <a href="http://www.yanivd.co.il" target="_blank">
